@@ -1,0 +1,15 @@
+C:\ProgramacaoDesktop\csharpdesktop\bin\Debug\net7.0\csharpdesktop.exe
+C:\ProgramacaoDesktop\csharpdesktop\bin\Debug\net7.0\csharpdesktop.deps.json
+C:\ProgramacaoDesktop\csharpdesktop\bin\Debug\net7.0\csharpdesktop.runtimeconfig.json
+C:\ProgramacaoDesktop\csharpdesktop\bin\Debug\net7.0\csharpdesktop.dll
+C:\ProgramacaoDesktop\csharpdesktop\bin\Debug\net7.0\csharpdesktop.pdb
+C:\ProgramacaoDesktop\csharpdesktop\obj\Debug\net7.0\csharpdesktop.csproj.AssemblyReference.cache
+C:\ProgramacaoDesktop\csharpdesktop\obj\Debug\net7.0\csharpdesktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgramacaoDesktop\csharpdesktop\obj\Debug\net7.0\csharpdesktop.AssemblyInfoInputs.cache
+C:\ProgramacaoDesktop\csharpdesktop\obj\Debug\net7.0\csharpdesktop.AssemblyInfo.cs
+C:\ProgramacaoDesktop\csharpdesktop\obj\Debug\net7.0\csharpdesktop.csproj.CoreCompileInputs.cache
+C:\ProgramacaoDesktop\csharpdesktop\obj\Debug\net7.0\csharpdesktop.dll
+C:\ProgramacaoDesktop\csharpdesktop\obj\Debug\net7.0\refint\csharpdesktop.dll
+C:\ProgramacaoDesktop\csharpdesktop\obj\Debug\net7.0\csharpdesktop.pdb
+C:\ProgramacaoDesktop\csharpdesktop\obj\Debug\net7.0\csharpdesktop.genruntimeconfig.cache
+C:\ProgramacaoDesktop\csharpdesktop\obj\Debug\net7.0\ref\csharpdesktop.dll
