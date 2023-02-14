@@ -1,0 +1,15 @@
+C:\Users\pamel\OneDrive\Área de Trabalho\AtividadeAvali1\bin\Debug\net7.0\AtividadeAvali1.exe
+C:\Users\pamel\OneDrive\Área de Trabalho\AtividadeAvali1\bin\Debug\net7.0\AtividadeAvali1.deps.json
+C:\Users\pamel\OneDrive\Área de Trabalho\AtividadeAvali1\bin\Debug\net7.0\AtividadeAvali1.runtimeconfig.json
+C:\Users\pamel\OneDrive\Área de Trabalho\AtividadeAvali1\bin\Debug\net7.0\AtividadeAvali1.dll
+C:\Users\pamel\OneDrive\Área de Trabalho\AtividadeAvali1\bin\Debug\net7.0\AtividadeAvali1.pdb
+C:\Users\pamel\OneDrive\Área de Trabalho\AtividadeAvali1\obj\Debug\net7.0\AtividadeAvali1.csproj.AssemblyReference.cache
+C:\Users\pamel\OneDrive\Área de Trabalho\AtividadeAvali1\obj\Debug\net7.0\AtividadeAvali1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pamel\OneDrive\Área de Trabalho\AtividadeAvali1\obj\Debug\net7.0\AtividadeAvali1.AssemblyInfoInputs.cache
+C:\Users\pamel\OneDrive\Área de Trabalho\AtividadeAvali1\obj\Debug\net7.0\AtividadeAvali1.AssemblyInfo.cs
+C:\Users\pamel\OneDrive\Área de Trabalho\AtividadeAvali1\obj\Debug\net7.0\AtividadeAvali1.csproj.CoreCompileInputs.cache
+C:\Users\pamel\OneDrive\Área de Trabalho\AtividadeAvali1\obj\Debug\net7.0\AtividadeAvali1.dll
+C:\Users\pamel\OneDrive\Área de Trabalho\AtividadeAvali1\obj\Debug\net7.0\refint\AtividadeAvali1.dll
+C:\Users\pamel\OneDrive\Área de Trabalho\AtividadeAvali1\obj\Debug\net7.0\AtividadeAvali1.pdb
+C:\Users\pamel\OneDrive\Área de Trabalho\AtividadeAvali1\obj\Debug\net7.0\AtividadeAvali1.genruntimeconfig.cache
+C:\Users\pamel\OneDrive\Área de Trabalho\AtividadeAvali1\obj\Debug\net7.0\ref\AtividadeAvali1.dll
