@@ -52,7 +52,7 @@ namespace App
             }
             
             Console.WriteLine("Ordenando com Array"); 
-            // exibe o array de linhas ordenado
+            // exibe o array de linhas ordenado teste
             for (int numAtual = 0; numAtual < linhas; numAtual++) {
                 Console.WriteLine(numeros[numAtual]);
             }
